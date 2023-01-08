@@ -12,3 +12,5 @@ mrujs.start({
 });
 
 CableReady.initialize({ consumer });
+import "trix"
+import "@rails/actiontext"
